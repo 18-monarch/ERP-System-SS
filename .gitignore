@@ -1,11 +1,6 @@
 node_modules/
 .env
-client/.env
 server/.env
+client/.env
 dist/
 build/
-.vercel/
-.DS_Store
-.env.local
-client/.env.local
-server/.env.local
